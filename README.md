@@ -29,7 +29,6 @@
 ## Running backend individually
 - `cd backend`
 - `node server.js`
-- visit http://localhost:3000
 
 # Links
 ## NextJS
