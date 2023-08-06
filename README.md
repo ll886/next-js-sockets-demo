@@ -9,11 +9,11 @@
 ## Windows
 - `install.bat`
 
-## Running frontend individually
+## Installing frontend individually
 - `cd frontend`
 - `npm install`
 
-## Running backend individually
+## Installing backend individually
 - `cd backend`
 - `npm install`
 
